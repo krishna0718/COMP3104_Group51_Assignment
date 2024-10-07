@@ -1,0 +1,26 @@
+COMP 3104 – DevOps Course
+
+COMP 3104 (DevOps) is a course offered at George Brown College as part of the technology and computer programming curriculum. The course focuses on the principles and practices of DevOps, a set of methodologies aimed at improving the collaboration between software developers and IT operations teams.
+
+The course covers a wide range of topics essential for understanding the DevOps lifecycle, including:
+- **Version Control Systems**: Using Git and GitHub for collaborative coding and managing code repositories.
+- **Continuous Integration (CI)**: Implementing automated pipelines to ensure code is regularly tested and integrated.
+- **Continuous Deployment (CD)**: Automating the deployment process to deliver code to production environments efficiently and reliably.
+- **Automation Tools**: Hands-on experience with tools such as Jenkins, Docker, and Kubernetes to automate builds, testing, and deployments.
+- **Infrastructure as Code (IaC)**: Learning how to manage and provision computing infrastructure using code and configuration files.
+
+Throughout the course, students work on practical, hands-on assignments that simulate real-world DevOps tasks. The emphasis is on using modern tools and practices to enable faster and more reliable software development and delivery.
+
+### Key Learning Outcomes:
+- Understand the core principles of DevOps and its role in modern software development.
+- Implement version control using Git and collaborate on projects using GitHub.
+- Set up and configure continuous integration and deployment pipelines.
+- Gain practical experience with automation tools like Docker and Jenkins.
+- Learn how to automate infrastructure management using Infrastructure as Code (IaC).
+
+### Course Structure:
+- **Lectures**: Provide a theoretical understanding of DevOps concepts.
+- **Labs and Assignments**: Practical work involving the setup and management of CI/CD pipelines and version control systems.
+- **Final Project**: A group assignment where students apply the knowledge gained to manage a collaborative project using DevOps tools and practices.
+
+This course is essential for students who aspire to become proficient in modern software development methodologies, making them more adaptable to the fast-changing demands of the IT industry.

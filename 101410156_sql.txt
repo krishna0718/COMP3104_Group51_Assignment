@@ -1,0 +1,12 @@
+Structured Query Language (SQL)
+
+SQL is a standard programming language specifically for managing and manipulating relational databases. It is used for querying, updating, and managing data.
+
+Key Features:
+- **Data Querying**: Use of SELECT statements to retrieve data.
+- **Data Manipulation**: INSERT, UPDATE, DELETE commands to manage data records.
+- **Database Management**: Creating and modifying database structures using CREATE, ALTER, and DROP commands.
+- **Joins**: Combining data from multiple tables using INNER JOIN, LEFT JOIN, etc.
+
+Importance:
+SQL is essential for backend development as it allows developers to interact with databases effectively. Proficiency in SQL is a valuable skill in data management and analytics.

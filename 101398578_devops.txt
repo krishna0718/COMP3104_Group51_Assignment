@@ -1,0 +1,47 @@
+The COMP 3104 - DevOps course focuses on the principles and practices of DevOps, which is a set of practices that combines software development (Dev) and IT operations (Ops). It emphasizes collaboration between software developers and IT professionals, automating processes, and improving software delivery speed and quality.
+
+Key Topics Covered:
+Introduction to DevOps:
+
+Understanding the DevOps culture, benefits, and challenges.
+Continuous integration (CI) and continuous deployment (CD) pipelines.
+Differences between traditional software development models and DevOps.
+Version Control with Git:
+
+Advanced Git concepts (branching, merging, rebasing).
+Collaborating with GitHub or GitLab.
+Automation of code review and testing with Git hooks.
+Automation and Scripting:
+
+Automating tasks using scripting languages (e.g., Bash, Python).
+Infrastructure as Code (IaC) tools like Ansible, Puppet, or Chef.
+Containerization with Docker:
+
+Introduction to Docker and containerization.
+Building, managing, and deploying containers.
+Working with Docker Compose for multi-container applications.
+Continuous Integration/Continuous Deployment (CI/CD):
+
+Setting up CI/CD pipelines using tools like Jenkins, GitLab CI, or CircleCI.
+Automating testing, building, and deploying applications.
+Cloud Platforms:
+
+Deploying applications to cloud services like AWS, Azure, or Google Cloud.
+Using cloud-based DevOps tools (e.g., AWS CodePipeline, Azure DevOps).
+Monitoring and Logging:
+
+Introduction to monitoring tools (Prometheus, Grafana, ELK stack).
+Logging strategies and analysis for DevOps.
+Security in DevOps:
+
+DevSecOps: Integrating security practices in the DevOps lifecycle.
+Tools for automating security checks in CI/CD pipelines.
+Microservices and Kubernetes:
+
+Introduction to microservices architecture.
+Managing containerized applications with Kubernetes.
+Skills Gained:
+Proficiency in using DevOps tools and technologies for automation.
+Ability to set up and manage CI/CD pipelines.
+Knowledge of containerization and orchestration technologies.
+Hands-on experience with cloud deployment and infrastructure automation.

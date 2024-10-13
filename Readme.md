@@ -1,9 +1,9 @@
 # COMP3104_Group51_Assignment
 ## Group Members
 - **Leader:** Krishna Thakkar (101398578) - [GitHub](https://github.com/krishna0718)
-- **Member 2:** Pratham bavlawala (101410156) - [GitHub]
-- **Member 3:** Nandani kevadiya (1027890) - [GitHub]
-- **Member 3:** Ishika Koshiya  (1027890) - [GitHub]
+- **Member 2:** Pratham bavlawala (101410156) - [GitHub](https://github.com/prathambavlawala)
+- **Member 3:** Ishika Koshiya (101413772) - [GitHub](https://github.com/ishikakoshiya)
+- **Member 3:** Nandani kevadiya (101413773) - [GitHub](https://github.com/nandani-kevadiya)
 
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on

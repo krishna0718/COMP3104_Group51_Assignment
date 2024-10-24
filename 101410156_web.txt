@@ -1,0 +1,12 @@
+Web Development
+
+Web development encompasses all the tasks involved in developing a website for the Internet or an intranet. It includes aspects like web design, web content development, and client-side/server-side scripting.
+
+Key Components:
+- **Static vs. Dynamic Websites**: Understanding the difference between fixed content and dynamic content that changes based on user interactions.
+- **Responsive Design**: Techniques to ensure websites function well on various devices and screen sizes.
+- **Web Hosting**: Knowledge of how to host websites on servers.
+- **SEO**: Search Engine Optimization techniques to improve website visibility.
+
+Importance:
+Web development skills are in high demand as businesses increasingly rely on online presence for customer engagement and operations. Proficiency in web development can lead to diverse career opportunities in tech.

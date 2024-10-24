@@ -1,0 +1,12 @@
+Stakeholders in Software Development
+
+Stakeholders are individuals or groups that have an interest in the outcome of a project. In software development, stakeholders can be users, clients, project managers, developers, and others who are affected by the software.
+
+Key Stakeholders:
+- **End Users**: The primary users who will interact with the software.
+- **Clients**: Individuals or organizations that fund the project and have specific requirements.
+- **Project Managers**: Responsible for overseeing the project and ensuring it meets deadlines and budgets.
+- **Developers**: The technical team that builds the software.
+
+Importance:
+Identifying and understanding stakeholders is crucial for the success of a project. Their feedback and requirements guide the development process, ensuring that the final product meets their needs and expectations.

@@ -1,0 +1,12 @@
+Object-Oriented Programming (OOP)
+
+OOP is a programming paradigm based on the concept of "objects," which can contain data and code: data in the form of fields, and code in the form of procedures or methods. OOP languages include Java, C++, Python, and Ruby.
+
+Key Concepts:
+- **Encapsulation**: Bundling data with methods that operate on that data.
+- **Inheritance**: Mechanism by which one class can inherit properties from another.
+- **Polymorphism**: Ability to present the same interface for different data types.
+- **Abstraction**: Hiding complex realities while exposing only the necessary parts.
+
+Importance:
+OOP promotes code reusability and modular design, making it easier to manage and scale complex software systems. Understanding OOP is fundamental for modern software development.
